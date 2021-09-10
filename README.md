@@ -1,2 +1,2 @@
-# table-project
-tabel projek dtp (ais) di draw.io
+website osis skomda
+team : aisyah putri harmelia & alzena cheiryl violney
